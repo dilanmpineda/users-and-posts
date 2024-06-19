@@ -22,7 +22,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Execute
+## Execution
 Para probar el endpoint se necesita realizar una petición GET a la siguiente URL:
 ```bash
 localhost:3000/userspost
